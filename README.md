@@ -1,30 +1,30 @@
-# Aula Prática de Python - Processamento de Imagem
+# 🐍 Aula Prática de Python - Processamento de Imagens
 
-Este repositório contém um exemplo simples para aprender Python aplicado ao processamento de imagens.
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/duchio/aula-pratica-python/blob/main/aula_pratica.ipynb)
 
-## Como rodar
-
-1. Clone este repositório:
-```bash
-git clone <URL_DO_REPOSITORIO>
-cd aula-pratica-python
-```
-
-2. Instale as dependências:
-```bash
-pip install -r requirements.txt
-```
-
-3. Rode o Jupyter Notebook:
-```bash
-jupyter notebook aula_pratica.ipynb
-```
-
-Ou abra diretamente no Google Colab.
+Este repositório contém um exemplo simples de **processamento de imagens com Python** usando OpenCV e Matplotlib.  
+Ideal para iniciantes em programação aplicada à área médica e análise de imagens.
 
 ---
 
-## Estrutura
-- `aula_pratica.ipynb` - Notebook principal da aula.
-- `dados/` - Imagens de exemplo.
-- `scripts/analise_basica.py` - Script Python separado para análise.
+## 🚀 Como abrir no Google Colab
+1. Clique no botão **"Abrir no Colab"** acima.
+2. No Colab, vá em **Executar tudo** (Runtime → Run all).
+3. Modifique os parâmetros para explorar diferentes resultados.
+
+---
+
+## 📂 Estrutura do Repositório
+
+
+---
+
+## 🧠 Desafios sugeridos
+- Alterar os parâmetros da função `cv2.Canny` para observar diferenças na detecção de bordas.
+- Carregar e processar outra imagem.
+- Salvar a imagem processada em um novo arquivo.
+
+---
+
+✍️ Criado para fins educacionais — sinta-se à vontade para adaptar e expandir.
+
