@@ -16,6 +16,15 @@ Ideal para iniciantes em programação aplicada à área médica e análise de i
 
 ## 📂 Estrutura do Repositório
 
+aula-pratica-python/
+│
+├── README.md # Este arquivo
+├── requirements.txt # Lista de bibliotecas necessárias
+├── aula_pratica.ipynb # Notebook principal da aula
+├── dados/ # Imagens de exemplo
+│ └── imagem1.png
+└── scripts/ # Scripts Python adicionais
+└── analise_basica.py
 
 ---
 
